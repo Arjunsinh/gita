@@ -9,5 +9,6 @@ url: "https://sanatanadharma.arjunsinh.com" # the base hostname & protocol for y
 markdown: kramdown
 permalink: none
   
+deftext: We will update this page soon, or you can also help us to write/edit by clicking on Edit icon from bottom right corner.
   
 include: ['_pages']
