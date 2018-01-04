@@ -10,3 +10,4 @@ markdown: kramdown
 permalink: none
   
   
+include: ['_pages']
