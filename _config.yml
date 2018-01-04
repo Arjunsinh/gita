@@ -1,0 +1,12 @@
+# Site settings
+title: Srimad Bhagavad Gita
+description: > 
+  Read Srimad Bhagavad-Gita online in Sanskrit, English, Hindi and Gujarati.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sanatanadharma.arjunsinh.com/gita/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: none
+  
+  
